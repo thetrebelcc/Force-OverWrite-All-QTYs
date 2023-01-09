@@ -8,3 +8,8 @@ To update the quantity and reserved_quantity fields, input a value in the Force 
 
 ## Notes
 Currently there is no security/user limit, I will add a way to only have the admin be abel to use this module. 
+
+
+![Before Input ](https://github.com/thetrebelcc/Force-OverWrite-All-QTYs/blob/master/Screenshot%20(603).png)
+
+![After Input](https://github.com/thetrebelcc/Force-OverWrite-All-QTYs/blob/master/Screenshot%20(604).png)
